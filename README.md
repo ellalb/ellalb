@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ella
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning c + java
+- 🌱 I’m currently learning c# and want to learn c
 
 <!---
 ellalb/ellalb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
